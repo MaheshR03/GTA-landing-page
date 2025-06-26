@@ -4,7 +4,7 @@ A GTA VI-themed animated landing page powered by React (Vite), Tailwind CSS, and
 
 ## 🚀 LIVE DEMO
 
-https://gta-landing-page-gilt.vercel.app/
+vercel : https://gta-landing-page-gilt.vercel.app/
 
 ## 📷 SCREENSHOTS
 
